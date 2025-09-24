@@ -1,0 +1,93 @@
+a.  
+
+[TBC]
+
+b. How would you recognize this poor quality? Write 3 - 4 sentences that show how the data fails to include properties of good quality data. 
+
+Accuracy: Duplicate date indices detected. 
+
+Completeness: Missing long-term yield information for 50% of the data. 
+
+Consistency: For a specific date, the value is 10 times higher than other dates, which is inconsistent and may indicate an issue. 
+
+Timeliness: The data used is one year old. 
+
+ 
+
+ 
+
+ 
+
+c.  
+
+Review 1: 
+
+Product: Pro Max 
+
+"Like this. Bought it last week in New York." 
+
+Rating: 5 stars 
+
+Date: 12/03/25 
+
+Reviewer: A 
+
+  
+
+Review 2: 
+
+Product: “” 
+
+"Good." 
+
+Rating: 3 stars 
+
+Date: 03/12/2025 
+
+Reviewer: B 
+
+  
+
+Review 3: 
+
+Product: Pro Max 
+
+"recommended” 
+
+Rating: 4.5 stars 
+
+Date: 15/05/25 
+
+Reviewer: C 
+
+  
+
+Review 4: 
+
+Product: Pro Max 
+
+"Bought in the US, Disappointed." 
+
+Rating: 1 star 
+
+Date: 06/15/2025 
+
+Reviewer: D 
+
+  
+
+[No reviews available for April 2025] 
+
+ 
+
+d.  
+
+Accuracy: The product was purchased in the US, but it is not actually sold in the US. 
+
+Completeness: The product name is missing, making it unclear which product the review corresponds to. 
+
+Consistency: The date format is inconsistent, with some entries using DD/MM/YY and others using MM/DD/YY. 
+
+Timeliness: The dataset may contain gaps, with no data for April, while there are approximately 30 reviews per month. 
+
+ 
